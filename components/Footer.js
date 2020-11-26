@@ -8,7 +8,9 @@ const Footer = () => {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
+          <amp-img src="/vercel.svg" alt="Vercel Logo"
+            width="70"
+            height="1em" />
         </a>
       </footer>
       <style jsx>{`
