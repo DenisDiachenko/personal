@@ -12,7 +12,7 @@ const Footer = () => {
             src="/vercel.svg"
             alt="Vercel Logo"
             width="70"
-            height="1em" layout="responsive"
+            height="1em"
           />
         </a>
       </footer>
